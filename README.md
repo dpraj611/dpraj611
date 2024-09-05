@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dpraj611
 - 👀 I’m interested in cybersecurity, ethical hacking, and AI-driven security solutions.
-- 🌱 I’m currently learning advanced cybersecurity techniques through Google’s Cybersecurity certification, along with Data Structures and Algorithms.
+- 🌱 I’m currently learning advanced cybersecurity techniques through Google’s Cybersecurity certification.
 - 💞️ I’m looking to collaborate on cybersecurity projects, especially in the areas of privacy protection and security automation.
-- 📫 How to reach me: praj.dhruv6@gmail.com or via Instagram @_dpraj._
+- 📫 How to reach me: praj.dhruv6@gmail.com or via Instagram [@_dpraj._](https://www.instagram.com/_dpraj._)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can break into a system, but I still struggle to find matching socks in the morning.
